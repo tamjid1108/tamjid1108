@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Connect with me:</h3>
-
-
-## 🌐 Socials:
+# 🌐 Connect with me:
 <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tam.11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamjid-l-a26772214) -->
 <p align="left">
 <a href="https://linkedin.com/in/tamjid-l-a26772214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamjid-l-a26772214" height="30" width="40" /></a>
@@ -34,7 +31,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tamjid1108&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamjid1108&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
